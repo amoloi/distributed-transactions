@@ -1,2 +1,2 @@
 # distributed-transactions
-demo projects for meetup
+demo projects scraped up for meetup
