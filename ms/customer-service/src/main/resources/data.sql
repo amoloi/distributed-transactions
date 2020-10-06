@@ -1,0 +1,1 @@
+insert into public.customer (id,balance) values ('2fe24185-9f5f-4e3f-a13f-156f798ddc31', 100);
